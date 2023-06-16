@@ -1,0 +1,8 @@
+.active-dialog-link{
+    color: White;
+    text-decoration: none;
+}
+.noactive-dialog-link{
+    color: black;
+    text-decoration: none;
+}

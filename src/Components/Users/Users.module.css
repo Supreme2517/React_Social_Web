@@ -1,0 +1,49 @@
+.avatar {
+    padding-top: 20px;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+}
+
+.number{
+    font-weight: bold;
+    padding-top: 3px;
+    margin-right: 2px;
+}
+
+.pag {
+    margin-right: 2px;
+    padding-top: 3px;
+}
+
+.btn{
+    cursor: pointer;
+  background-color: #6f65d6;
+  border: none;
+  width: 80px;
+  height: 25px;
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+
+.btn:hover{
+    cursor: pointer;
+    background-color: #524ba1;;
+    color: #aaabaf;
+   }
+
+   .users{
+
+    width: 97%;
+    border: 1px solid silver;
+    border-radius: 10px;
+    background-color: rgba(204, 133, 133, 0.2);
+    display: flex;
+    margin-bottom: 3px;
+    padding-left: 20px;
+   }
+
+   

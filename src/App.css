@@ -1,0 +1,23 @@
+.app-wrapper{
+  background-color: white;
+  display: grid;
+  grid-template-rows: 60px 1fr;
+  grid-template-columns: 3fr 10fr;
+  grid-gap: 5px;
+  grid-template-areas: 
+  'h h'
+  'n c';
+}
+
+
+.content{
+  padding-top: 50px;
+  padding-left: 25px;
+  grid-area: c;
+  background-color: rgb(239, 232, 232);
+ }
+
+
+ .status_text{
+  font-size: 25px;
+ }

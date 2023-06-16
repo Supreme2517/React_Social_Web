@@ -1,0 +1,25 @@
+.postsBlock {
+    padding: 10px;
+}
+
+.posts {
+    margin-top: 10px;
+}
+
+.btn{
+    cursor: pointer;
+  background-color: #6f65d6;
+  width: 80px;
+  height: 25px;
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border: none;
+  color: white;
+}
+
+.btn:hover{
+    cursor: pointer;
+    background-color: #524ba1;;
+    color: #aaabaf;
+   }

@@ -1,0 +1,39 @@
+.paginator{
+    margin: 10px 25px;
+    text-align: center;
+
+}
+.pageNumber {
+    cursor: pointer;
+    margin: 0px 1px 0px 1px;
+    padding: 2px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.pageNumber.selectedPage{
+    font-weight: bold;
+    border-color: black;
+}
+
+.arrow_img{
+    border-radius: 20px;
+    width: 15px;
+    height: 15px;
+}
+
+.btn_right{
+    width: 20px;
+    height: 20px;
+    background-size: cover;
+    background-image: url('../Assets/Image/arrow_right.png');
+    border-radius: 20px;
+}
+
+.btn_left{
+    width: 20px;
+    height: 20px;
+    background-image: url('../Assets/Image/arrow_left.png');
+    background-size: cover;
+    border-radius: 20px;
+}
